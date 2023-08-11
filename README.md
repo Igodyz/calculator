@@ -8,7 +8,7 @@ Estruturei o layout da calculadora usando HTML para marcação e CSS para a esti
 
 Sobre o desafio
 
-Obtive alguns erros na parte do resultado final no botão de resultado, mas consegui resolver
+Conseguir achar a função para executar de maneira efetiva as funções de cálculo.
 
 Melhorias
 
