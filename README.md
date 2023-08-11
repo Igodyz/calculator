@@ -1,4 +1,4 @@
-# calculator
+# Calculator
 Nesse projeto desenvolvi uma calculadora simples utilizando HTML, CSS e Javascript.
 
 
