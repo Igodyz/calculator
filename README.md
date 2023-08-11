@@ -16,6 +16,7 @@ Futuramente vou deixar mais complexa esse projeto colocando algumas funcionalida
 
 
 
-<img src="https://github.com/Igodyz/calculator/assets/49465890/6bcd91ae-7e42-4933-88a1/src/assets/image1.png" width="500" height="350"/>
+<img src="https://github.com/Igodyz/calculator/assets/49465890/8124e1f8-2e47-488d-9114-09febb0c5317/src/assets/image1.png" width="500" height="350"/>
 <img src="https://github.com/Igodyz/calculator/assets/49465890/65c575d8-4828-4a6d-8b13-878e50c80363/src/assets/image2.png" width="500" height="350"/>
 </div>
+
